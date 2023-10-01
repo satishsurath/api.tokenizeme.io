@@ -1,2 +1,2 @@
-# assistant.tokenizeme.io
-New IPFS, LangChain, LLM based personal 
+# api.tokenizeme.io
+Backend API support for Personalized LLM assistant
